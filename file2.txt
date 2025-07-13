@@ -4,5 +4,7 @@ this is my content
 commit git hub on lin e2 
 Change from feature branch
 
+Update via GitHub directly
+
 Another remote update line
 
